@@ -25,7 +25,7 @@ Step 2. Add the dependency
 	}
 
 
-Step 3. Implementing in your MainActivity
+Step 3. Add this line into your Activity class. `TaiLangChecker.taiLangChecker("your text here")`
   
     class MainActivity : AppCompatActivity() {
 
