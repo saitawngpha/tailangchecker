@@ -17,6 +17,18 @@ Step 1. Add the JitPack repository to your build file
 		}
 	}
   ```
+  If you are using Android Studio Bumble bee or latest version, add JitPack repository to `settings.gradle` file.
+  ```
+  dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' } // add this line
+    }
+}
+```
+  
   
 Step 2. Add the dependency
   
