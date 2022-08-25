@@ -1,5 +1,6 @@
 # tailangchecker
 Tai Language Checker for Android library
+>Android library တွၼ်ႈတႃႇတေထတ်းတူၺ်း ထႅဝ်လိၵ်ႈၼႆႉ ၸွင်ႇၸႂ်ႈၽႃသႃလိၵ်ႈတႆး။
 
 # Theory of regex
 I am using the ` a(?:bc)* using ?: we disable the capturing group ` to check Shan or Tai Language in a sentense words. The rule for Tai language in one word is starting with a consonant, follow by vowels and tones. Please have a look from below diagram for more details.
@@ -39,6 +40,6 @@ Step 3. Add this line into your Activity class. `TaiLangChecker.taiLangChecker("
     
 
 # Demo
-Solarized dark             |  Solarized Ocean
+A Sentense is Tai Language |  A Sentense is not Tai Language
 :-------------------------:|:-------------------------:
 ![](1.png)  |  ![](2.png)
