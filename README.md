@@ -2,7 +2,7 @@
 Tai Language Checker for Android library
 
 # Theory of regex
-I am using the ` a(?:bc)* using ?: we disable the capturing group. ` to check Shan or Tai Language in sentense words. The rule for Tai language in one word is starting with a consonant, follow by vowels and tones. Please have a look from below diagram for more details.
+I am using the ` a(?:bc)* using ?: we disable the capturing group ` to check Shan or Tai Language in a sentense words. The rule for Tai language in one word is starting with a consonant, follow by vowels and tones. Please have a look from below diagram for more details.
 
 ![](diagram.png)
 
