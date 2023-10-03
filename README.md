@@ -34,7 +34,7 @@ Step 2. Add the dependency
   
 
 	dependencies {
-	        implementation 'com.github.saitawngpha:tailangchecker:0.0.1'
+	        implementation 'com.github.saitawngpha:tailangchecker:0.0.2'
 	}
 
 
