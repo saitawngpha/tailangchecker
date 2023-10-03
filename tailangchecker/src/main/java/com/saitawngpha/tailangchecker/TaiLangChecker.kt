@@ -3,7 +3,7 @@ package com.saitawngpha.tailangchecker
 /*
 * Tai or Shan Language Checker with regex.
 * Author : Sai Tawng Pha
-* 25/08/2022
+* 03/10/2023
  */
 
 object TaiLangChecker {
